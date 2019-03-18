@@ -21,6 +21,12 @@ fun main(args: Array<String>){
 
         }
         println("")
+
     }
+    do {
+        println(s)
+        s+=j++
+
+    }while(j<10)
 
 }
